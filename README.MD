@@ -1,14 +1,13 @@
 # RANDOM TEXT BOX
 * Last version: 1.1.2
 
-## RESUMEN
 RTB is a simple WordPress widget which show random author quotes in the sidebar.
 Its really useful for share lots of quotes, storys and more.
 
-You must to write that quotes before, using the form.
+You must to write that quotes before using the form.
 
 
-## INSTALL (only manual):
+## INSTALL (manual only):
 	1) copy the folder 'random-text-box' inside WordPress plugin folder:
 	public/wp-content/plugins/
 
@@ -23,8 +22,8 @@ You must to write that quotes before, using the form.
 	Yes, of course! but be cafeful: if you update in the future, it could be overwritten again.
 	I will upload some new designs and options soon, watch for it :)
 
-	## ABOUT IT
-	>Creator: Schrott Gerardo  
-	>License: GPL-3.0  
-	>Version. 1.1.2 Stable  
-	>github: https://github.com/schrottgerardo/random-text-box
+## ABOUT IT
+	Creator: Schrott Gerardo  
+	License: GPL-3.0  
+	Version. 1.1.2 Stable  
+	Github: https://github.com/schrottgerardo/random-text-box
