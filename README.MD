@@ -23,7 +23,7 @@ You must to write that quotes before using the form.
 	I will upload some new designs and options soon, watch for it :)
 
 	## ABOUT IT
-	>Creator: Schrott Gerardo  
-	>License: GPL-3.0  
-	>Version. 1.1.2 Stable  
-	>github: https://github.com/schrottgerardo/random-text-box
+	> Creator: Schrott Gerardo  
+	> License: GPL-3.0  
+	> Version. 1.1.2 Stable  
+	> Github: https://github.com/schrottgerardo/random-text-box
