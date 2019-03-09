@@ -8,7 +8,7 @@ Its really useful for share lots of quotes, storys and more.
 You must to write that quotes before, using the form.
 
 
-## INSTALL (only manual):
+## INSTALL (manual only):
 	1) copy the folder 'random-text-box' inside WordPress plugin folder:
 	public/wp-content/plugins/
 
