@@ -4,7 +4,7 @@
 RTB is a simple WordPress widget which show random author quotes in the sidebar.
 Its really useful for share lots of quotes, storys and more.
 
-You must to write that quotes before, using the form.
+You must to write that quotes before using the form.
 
 
 ## INSTALL (manual only):
