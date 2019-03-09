@@ -22,8 +22,8 @@ You must to write that quotes before using the form.
 	Yes, of course! but be cafeful: if you update in the future, it could be overwritten again.
 	I will upload some new designs and options soon, watch for it :)
 
-	## ABOUT IT
-	> Creator: Schrott Gerardo  
-	> License: GPL-3.0  
-	> Version. 1.1.2 Stable  
-	> Github: https://github.com/schrottgerardo/random-text-box
+## ABOUT IT
+	Creator: Schrott Gerardo  
+	License: GPL-3.0  
+	Version. 1.1.2 Stable  
+	Github: https://github.com/schrottgerardo/random-text-box
