@@ -1,0 +1,46 @@
+/*--------------------------------------------------------------
+	RANDOM TEXT BOX
+----------------------------------------------------------------
+1 - ADMIN WIDGET
+--------------------------------------------------------------*/
+
+#rtb-form {
+	// add rules here if you want to edit the admin panel css
+}
+
+/*--------------------------------------------------------------
+2 - SIDEBAR WIDGET
+--------------------------------------------------------------*/
+
+	/* 1 - Bluesea style, default */
+	#rtb-background {
+		/* all the box */
+		background:url("../img/background-bluesea.png");
+		border: 3px solid #8F9FAE;
+	}
+
+	.rtb-title {
+		/* Title of the quotes */
+		font-size: 1.2em;
+		font-weight: bold;
+		margin-top: 1.4em;
+		text-align: center;
+	}
+
+
+	.rtb-text {
+		/* main text */
+		text-align:justify;
+	}
+
+
+	.rtb-author {
+		/* author's line */
+		background: #BBC5CE;
+		font-weight: bold;
+		margin-bottom: 1em;
+		margin-left: -1.3em;
+		padding-right: 1em;
+		position: relative;
+		text-align:right;
+	}
