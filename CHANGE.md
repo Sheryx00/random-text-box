@@ -1,5 +1,5 @@
-#RANDOM TEXT BOX
-##Logs
+# RANDOM TEXT BOX
+## Logs
 
 ### Version 1.1.2:
 	* Fixed some bugs

@@ -7,7 +7,7 @@
  * Version: 1.1.2
  * Author: Gerardo Schrott
  * Author URI: https://github.com/schrottgerardo/
- * License: GPL2
+ * License: GPL3
  */
 
 namespace RTB_SPACE;

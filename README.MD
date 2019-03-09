@@ -1,4 +1,4 @@
-#RANDOM TEXT BOX
+# RANDOM TEXT BOX
 * Last version: 1.1.2
 
 ## RESUMEN
