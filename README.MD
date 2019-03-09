@@ -1,7 +1,6 @@
 # RANDOM TEXT BOX
 * Last version: 1.1.2
 
-## RESUMEN
 RTB is a simple WordPress widget which show random author quotes in the sidebar.
 Its really useful for share lots of quotes, storys and more.
 
