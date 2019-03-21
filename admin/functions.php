@@ -12,7 +12,7 @@ defined('ABSPATH') or die("Not today");
 
 	function admin_widget() {
 		global $wpdb;
-		if ( isset( $_POST['submit'] ) ){
+		if ( isset( $_POST['rtb_submit'] ) ){
 			$table = $wpdb->prefix . 'rtb';
 			$wpdb->insert($table,
 			array(
@@ -32,7 +32,7 @@ defined('ABSPATH') or die("Not today");
 			<label>Autor: <input type="text" name='author'></label>
 			<br>
 			<label>relato: <textarea type="textarea" name='text' cols="40" rows="5"></textarea></label>
-			<input type="submit" name="submit" value="enviar">
+			<input type="submit" name="rtb_submit" value="enviar">
 		</form>
 <?php
 }
